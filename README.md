@@ -3,8 +3,8 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 ## Confidence Calibration under Label Shift
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
-| [Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html) | 单元格2 | 2020 |单元格6 |
-| 单元格4 | 单元格5 | 单元格6 |单元格6 |
+| [Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html) | NeurIPS | 2020 |单元格6 |
+| [LADE](https://openaccess.thecvf.com/content/CVPR2021/html/Hong_Disentangling_Label_Distribution_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.html)| CVPR|2021|[https://github.com/hyperconnect/LADE](https://github.com/hyperconnect/LADE)|
 | 单元格7 | 单元格8 | 单元格9 |单元格6 |
 
 
