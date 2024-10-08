@@ -8,5 +8,8 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 |[Two-stage recalibration](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbd6b295535e44f2b8ec0c3f1da7c509-Abstract-Conference.html)| NeurIPS | 2024 |[https://github.com/ZeyuSun/calibration_label_shift] |
 | [ADELLO](https://arxiv.org/abs/2306.04621) | ECCV | 2024 |[https://github.com/emasa/ADELLO-LTSSL](https://github.com/emasa/ADELLO-LTSSL) |
 ## Confidence calibration under Covariate Shift
+| Paper | Source | Year| Code|
+|-------|-------|-------|-------|
+| [DRL](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/162)| IJCAI|2023|URL invalid|
 
 ## Confidence calibration under Out-of-distribution
