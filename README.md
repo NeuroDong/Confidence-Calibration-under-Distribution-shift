@@ -3,6 +3,7 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 ## Confidence Calibration under Label Shift
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
+| [Label importance weighting](https://proceedings.mlr.press/v161/podkopaev21a.html)| UAI|2021|None|
 | [LADE](https://openaccess.thecvf.com/content/CVPR2021/html/Hong_Disentangling_Label_Distribution_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.html)| CVPR|2021|[https://github.com/hyperconnect/LADE](https://github.com/hyperconnect/LADE)|
 |[Two-stage recalibration](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbd6b295535e44f2b8ec0c3f1da7c509-Abstract-Conference.html)| NeurIPS | 2024 |[https://github.com/ZeyuSun/calibration_label_shift] |
 | [ADELLO](https://arxiv.org/abs/2306.04621) | ECCV | 2024 |[https://github.com/emasa/ADELLO-LTSSL](https://github.com/emasa/ADELLO-LTSSL) |
