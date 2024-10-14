@@ -15,3 +15,6 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 | [DRL](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/162)| IJCAI|2023|URL invalid|
 
 ## Confidence calibration under Out-of-distribution
+| Paper | Source | Year| Code|
+|-------|-------|-------|-------|
+| [Adaptive Calibrator Ensemble](https://openaccess.thecvf.com/content/ICCV2023/html/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.html)| ICCV|2023|[https://github.com/insysgroup/Adaptive-Calibrator-Ensemble](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble)|
