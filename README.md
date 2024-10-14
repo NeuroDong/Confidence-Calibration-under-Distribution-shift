@@ -17,6 +17,7 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 ## Confidence calibration under Out-of-distribution
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
+| [AvUC loss](https://proceedings.neurips.cc/paper/2020/hash/d3d9446802a44259755d38e6d163e820-Abstract.html)| NeurIPS|2020|[https://github.com/IntelLabs/AVUC](https://github.com/IntelLabs/AVUC)|
 | [Energy-based Open-World Softmax](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.html)| ICCV|2021|The author did not provide code|
 | [Adaptive Calibrator Ensemble](https://openaccess.thecvf.com/content/ICCV2023/html/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.html)| ICCV|2023|[https://github.com/insysgroup/Adaptive-Calibrator-Ensemble](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble)|
 | [Density Aware Calibration](https://proceedings.mlr.press/v202/tomani23a.html)| ICML|2023|[https://github.com/futakw/DensityAwareCalibration](https://github.com/futakw/DensityAwareCalibration)|
