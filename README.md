@@ -11,6 +11,7 @@ This repository is dedicated to documenting state-of-the-art methods for confide
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
 | [Indistinguishable feature learning](https://proceedings.mlr.press/v108/park20b.html)| AISTATS|2020|The author did not provide code|
+| [Transferable Calibration](https://proceedings.neurips.cc/paper/2020/hash/df12ecd077efc8c23881028604dbb8cc-Abstract.html)| NeurIPS|2020|The author did not provide code|
 | [Cluster-level calibration](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_Confidence_Calibration_for_Domain_Generalization_Under_Covariate_Shift_ICCV_2021_paper.html)| ICCV|2021|The author did not provide code|
 | [DRL](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/162)| IJCAI|2023|URL invalid|
 
